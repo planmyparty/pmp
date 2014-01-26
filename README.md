@@ -1,2 +1,2 @@
-pmp
+PMP - Plan My Party
 ===
